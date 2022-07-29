@@ -1,6 +1,10 @@
 # Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+Esse é o repositório da nossa aula de Flexbox.
+
+Tomei liberdade e utilizei a estrutura da interface do Instagram e modifiquei os elementos.
+
+Se fosse utilizar a do instagram eu poderia simplesmente copiar o código disponibilizado, por isso fiz o meu próprio.
 
 ### Os requisitos são:
 
